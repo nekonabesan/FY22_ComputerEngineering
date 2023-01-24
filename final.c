@@ -34,5 +34,3 @@ int main(int ac, char **av){
   }
   return(sum);			/* 返り値に意味はない */
 }
-
-  
